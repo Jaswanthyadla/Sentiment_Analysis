@@ -29,8 +29,8 @@ pwd
 # In[4]:
 
 
-train_set= pd.read_csv(r'trainset copy final.csv')
-test_set= pd.read_csv(r'tst2.csv')
+train_set= pd.read_csv(r'trainset_final.csv')
+test_set= pd.read_csv(r'testset_final.csv')
 
 
 # In[5]:
